@@ -23,7 +23,7 @@ const produce =
 class App extends Component { render()  {
  return (
  <div className="App">
-	<HelloWorld name={'Abheesht Reddy Yanamala'} />
+	<HelloWorld name={'Sai Tejaswi'} />
 	<Counter /> {/* Add the Counter component */}
 	<FilteredList items={produce} />
  </div>
